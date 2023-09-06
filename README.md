@@ -1,0 +1,2 @@
+# hclay-static
+Static site
